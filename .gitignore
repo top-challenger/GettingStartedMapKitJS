@@ -78,3 +78,9 @@ typings/
 
 # DynamoDB Local files
 .dynamodb/
+
+# Private key file
+.p8
+
+# Lock file
+package-lock.json
